@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Joseph0M!</h1>
 <h3 align="center">A passionate Python and lua programmer from the UK</h3>
 
-- 🔭 I’m currently working on [Tassomai-Answer-Lookup](https://github.com/Joseph0M/Tassomai-Answer-Lookup), CV2 OCR and the Roblox Datastore API
+- 🔭 I’m currently working on [Tassomai-Answer-Lookup](https://github.com/Joseph0M/Tassomai-Answer-Lookup), CV2 OCR, HTML CGI Hosting and Customisable e-ink Tags
 
 - 🌱 I’m currently studying **Computer Science and Physics**
 
