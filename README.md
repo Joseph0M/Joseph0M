@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Joseph!</h1>
 <h3 align="center">A passionate Python and Front-End programmer from the UK</h3>
 
-- 🔭 I’m currently working on [Tassomai-Answer-Lookup](https://github.com/Joseph0M/Tassomai-Answer-Lookup), Smart Clocks and Customisable e-ink Smart Labels
+- 🔭 I’m currently working on [Tassomai-Answer-Lookup](https://github.com/Joseph0M/Tassomai-Answer-Lookup), Smart Clocks and Firmware for [DIYson Task light](https://github.com/Joseph0M/DIYson-SolarCycle))
 
 - 🌱 I’m currently studying **Computer Science and Physics**
 
