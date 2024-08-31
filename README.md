@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Joseph!</h1>
 <h3 align="center">A Python and Back-End programmer from the UK</h3>
 
-- 🔭 I’m currently working on Firmware for [DIYson Task light](https://github.com/Joseph0M/DIYson-SolarCycle))
+- 🔭 I’m currently working on some new projects
 
 - 🌱 I’m currently studying **Computer Science and Physics**
 
